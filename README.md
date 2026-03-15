@@ -157,7 +157,7 @@ Estes prompts podem ser utilizados em ferramentas de IA para aprofundar ou revis
 
 --------------------------------------------------------------------------------
 
-# 🚀 Conclusão
+# Conclusão
 
 * O desenvolvimento deste projeto permitiu explorar de forma prática o conceito de Agentes de Inteligência Artificial, compreendendo como esses sistemas evoluem além das IAs tradicionais ao incorporar autonomia, raciocínio e capacidade de interação com diferentes ferramentas e ambientes.
 
